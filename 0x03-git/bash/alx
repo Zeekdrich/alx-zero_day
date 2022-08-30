@@ -1,5 +1,2 @@
 #!/bin/bash
->>>head
-ALX School is so cool!
-ALX School
-update_script
+echo "ALX" cool
